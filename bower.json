@@ -1,0 +1,23 @@
+{
+  "name": "kapa/xsd",
+  "version": "0.0.0",
+  "description": "XSD tools for Javascript",
+  "main": "xsd.js",
+  "dependencies": {
+    "xml": "file://home/kapa/galina/kapa/xml/.git/"
+  },
+  "keywords": [
+    "xsd"
+  ],
+  "authors": [
+    "Kapa"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
