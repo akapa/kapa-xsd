@@ -4,7 +4,7 @@
   "description": "XSD tools for Javascript",
   "main": "xsd.js",
   "dependencies": {
-    "xml": "file://home/kapa/galina/kapa/xml/.git/"
+    "xml": "file:///home/kapa/galina/kapa/xml/.git/"
   },
   "keywords": [
     "xsd"
