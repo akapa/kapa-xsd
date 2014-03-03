@@ -4,7 +4,7 @@
   "description": "XSD tools for Javascript",
   "main": "xsd.js",
   "dependencies": {
-    "xml": "bazmegakapa/kapa-Library",
+    "xml": "bazmegakapa/kapa-xml",
     "objTools": "bazmegakapa/kapa-objTools"
   },
   "keywords": [

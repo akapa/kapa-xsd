@@ -1,8 +1,9 @@
 define(['objTools', 'xml'], function (objTools, xml) {
 
 	/**
-	 * A set of useful XML DOM methods.
+	 * A set of useful methods for XML DOM manipulation/traversal.
 	 * @external xml
+	 * @see https://github.com/bazmegakapa/kapa-xml
 	 */
 
 	/**
